@@ -2,4 +2,7 @@ body {
     color: white;
     background-color: black;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: 100px;
+    border: 3px;
+    border-style: dashed;
 }
